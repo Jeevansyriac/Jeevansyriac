@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevansyriac&label=Profile%20views&color=0e75b6&style=flat" alt="jeevansyriac" /> </p>
 
-- 🌱 I’m currently learning **Frameworks,django**
+- 🌱 I’m currently learning **Frameworks,django,FastAPI**
 
 - 💬 Ask me about **Python,django**
 
